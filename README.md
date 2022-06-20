@@ -15,7 +15,7 @@
 3、分治算法的基本思想：将一个规模为 n 的问题分解为 k 个规模较小的子问题，这些子问题相互独立且与原问题性质相同。求出子问题的解，就可得到原问题的解。分治算法设计的一般步骤包括： (1) 分解，将要解决的问题划分成若干规模较小的同类问题；(2) 求解，当子问题划分得足够小时，用较简单的方法解决； (3) 合并，按原问题的要求，将子问题的解逐层合并构成原问题的解。  
 
 4、分治法的基本设计范式如下：
-![规模100000运行结果](./img/%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E8%8C%83%E5%BC%8F(%E4%BC%AA%E7%A0%81).png)
+![基本范式](https://github.com/Gold-miner354/homework_template/blob/main/img/pic.png)
 
 ## 实验输入数据集
 
@@ -46,44 +46,44 @@
 
 规模10运行结果
 
-![规模10运行结果](https://github.com/Gold-miner354/homework_template/blob/main/img/规模10运行结果.png)
+![规模10运行结果](https://github.com/Gold-miner354/homework_template/blob/main/img/result1.png)
 
 规模100运行结果
 
-![规模100运行结果](https://github.com/Gold-miner354/homework_template/blob/main/img/规模100运行结果.png)
+![规模100运行结果](https://github.com/Gold-miner354/homework_template/blob/main/img/result2.png)
 
 规模1000运行结果
 
-![规模1000运行结果](https://github.com/Gold-miner354/homework_template/blob/main/img/规模1000运行结果.png)
+![规模1000运行结果](https://github.com/Gold-miner354/homework_template/blob/main/img/result3.png)
 
 规模2000运行结果
 
-![规模2000运行结果](https://github.com/Gold-miner354/homework_template/blob/main/img/规模2000运行结果.png)
+![规模2000运行结果](https://github.com/Gold-miner354/homework_template/blob/main/img/result4.png)
 
 规模5000运行结果
 
-![规模5000运行结果](https://github.com/Gold-miner354/homework_template/blob/main/img/规模5000运行结果.png)
+![规模5000运行结果](https://github.com/Gold-miner354/homework_template/blob/main/img/result5.png)
 
 规模10000运行结果
 
-![规模10000运行结果](https://github.com/Gold-miner354/homework_template/blob/main/img/规模10000运行结果.png)
+![规模10000运行结果](https://github.com/Gold-miner354/homework_template/blob/main/img/result6.png)
 
 规模100000运行结果
 
-![规模100000运行结果](https://github.com/Gold-miner354/homework_template/blob/main/img/规模100000运行结果.png)
+![规模100000运行结果](https://github.com/Gold-miner354/homework_template/blob/main/img/result7.png)
 
 三种排序算法的比较次数折线图
 
-![比较次数折线图](https://github.com/Gold-miner354/homework_template/blob/main/img/比较次数折线图.png)
+![比较次数折线图](https://github.com/Gold-miner354/homework_template/blob/main/img/result8.png)
 
 两种分治算法的比较次数折线图
 
-![两个分治算法的比较次数折线图](https://github.com/Gold-miner354/homework_template/blob/main/img/两个分治算法的比较次数折线图.png)
+![两个分治算法的比较次数折线图](https://github.com/Gold-miner354/homework_template/blob/main/img/result9.png)
 
 小数据下(由于从10000到100000跨度太大，折线图不直观，该图反映数据规模从10到10000区间内的变化)比较次数折线图
 
-![小数据下比较次数折线图](https://github.com/Gold-miner354/homework_template/blob/main/img/小数据下比较次数折线图.png)
+![小数据下比较次数折线图](https://github.com/Gold-miner354/homework_template/blob/main/img/result10.png)
 
 两种分治算法的子问题规模
 
-![子问题规模表格](https://github.com/Gold-miner354/homework_template/blob/main/img/子问题规模表格.png)
+![子问题规模表格](https://github.com/Gold-miner354/homework_template/blob/main/img/result11.png)
