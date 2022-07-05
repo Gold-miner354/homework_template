@@ -6,8 +6,9 @@ int n;//物品数量
 
 int max(int a,int b){//寻找最大值 
    if(a>=b)
-       return a;
-   else return b;
+        return a;
+   else 
+        return b;
 }
  
 int KnapSackDP(int weight[],int value[],int C){//动态规划算法 
