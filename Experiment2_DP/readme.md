@@ -28,6 +28,6 @@
 
 ## 实验预期结果与实际结果
 算法的运行时间与物品数量之间关系的折线图如下:
-![](https://github.com/Gold-miner354/homework_template/blob/main/Experiment3_Greedy/img/Greedy.png)
+![](https://github.com/Gold-miner354/homework_template/blob/main/Experiment2_DP/img/DP.png)
 
 各组数据截图可到img文件夹查看
